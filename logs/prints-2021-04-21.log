@@ -1,0 +1,6 @@
+14:40:03.984 [main] INFO  example1.MavenFrameworkBuild.BrowserTest - Navigated to Home page
+14:40:03.999 [main] INFO  example1.MavenFrameworkBuild.BrowserTest - clicked on login link
+14:40:07.572 [main] ERROR example1.MavenFrameworkBuild.BrowserTest - No issue
+14:40:11.459 [main] INFO  example1.MavenFrameworkBuild.BrowserTest - Navigated to Home page
+14:40:11.460 [main] INFO  example1.MavenFrameworkBuild.BrowserTest - clicked on login link
+14:40:15.138 [main] ERROR example1.MavenFrameworkBuild.BrowserTest - No issue

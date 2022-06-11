@@ -1,0 +1,6 @@
+22:08:04.263 [main] INFO  example1.MavenFrameworkBuild.BrowserTest - clicked on login link
+22:08:08.045 [main] ERROR example1.MavenFrameworkBuild.BrowserTest - No issue
+22:08:14.334 [main] INFO  example1.MavenFrameworkBuild.TitleTextTest - FEATURED COURSES
+22:08:50.137 [main] INFO  example1.MavenFrameworkBuild.NavigationBarTest - Navigation bar test is valid
+09:16:13.798 [main] INFO  example1.MavenFrameworkBuild.BrowserTest - Navigated to Home page
+09:16:13.803 [main] INFO  example1.MavenFrameworkBuild.BrowserTest - clicked on login link

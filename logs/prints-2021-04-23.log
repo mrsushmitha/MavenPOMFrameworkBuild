@@ -1,0 +1,5 @@
+13:47:52.538 [TestNG-tests-1] ERROR example1.MavenFrameworkBuild.BrowserTest - No issue
+13:59:56.616 [TestNG-tests-3] INFO  example1.MavenFrameworkBuild.TitleTextTest - FEATURED COURSES
+14:00:01.342 [TestNG-tests-1] INFO  example1.MavenFrameworkBuild.BrowserTest - Navigated to Home page
+14:00:01.346 [TestNG-tests-1] INFO  example1.MavenFrameworkBuild.BrowserTest - clicked on login link
+14:00:02.433 [TestNG-tests-4] INFO  example1.MavenFrameworkBuild.NavigationBarTest - Navigation bar test is valid

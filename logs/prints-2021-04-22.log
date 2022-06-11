@@ -1,0 +1,5 @@
+23:05:55.562 [main] INFO  example1.MavenFrameworkBuild.NavigationBarTest - Navigation bar test is valid
+23:06:22.733 [TestNG-tests-3] INFO  example1.MavenFrameworkBuild.TitleTextTest - FEATURED COURSES
+23:06:22.743 [TestNG-tests-3] INFO  example1.MavenFrameworkBuild.TitleTextTest - Title text is valid
+23:06:23.350 [TestNG-tests-1] INFO  example1.MavenFrameworkBuild.BrowserTest - Navigated to Home page
+23:06:23.353 [TestNG-tests-1] INFO  example1.MavenFrameworkBuild.BrowserTest - clicked on login link

@@ -1,0 +1,6 @@
+09:16:17.410 [main] ERROR example1.MavenFrameworkBuild.BrowserTest - No issue
+09:16:37.845 [main] INFO  example1.MavenFrameworkBuild.TitleTextTest - FEATURED COURSES
+09:16:59.395 [main] INFO  example1.MavenFrameworkBuild.NavigationBarTest - Navigation bar test is valid
+10:55:47.301 [main] INFO  example1.MavenFrameworkBuild.TitleTextTest - GTPL Bank Home Page
+10:55:47.306 [main] INFO  example1.MavenFrameworkBuild.TitleTextTest - Title text is valid
+10:56:34.766 [main] INFO  example1.MavenFrameworkBuild.TitleTextTest - GTPL Bank Home Page

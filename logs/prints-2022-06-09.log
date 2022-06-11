@@ -1,0 +1,5 @@
+17:17:38.283 [TestNG-tests-3] INFO  example1.MavenFrameworkBuild.AddItemsToCartCheckOut - Added items and clicked on Add to cart
+17:17:39.678 [TestNG-tests-3] INFO  example1.MavenFrameworkBuild.AddItemsToCartCheckOut - Filled details and checked out
+17:17:39.693 [TestNG-tests-1] INFO  example1.MavenFrameworkBuild.LoginTest - Login test done
+17:17:39.827 [TestNG-tests-1] INFO  example1.MavenFrameworkBuild.LoginTest - Navigated to login Page
+17:17:39.970 [TestNG-tests-3] INFO  example1.MavenFrameworkBuild.AddItemsToCartCheckOut - Finish page message
